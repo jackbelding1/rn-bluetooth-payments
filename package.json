@@ -10,8 +10,10 @@
     "test": "jest"
   },
   "dependencies": {
+    "flipper-plugin": "^0.212.0",
     "react": "18.2.0",
-    "react-native": "0.73.6"
+    "react-native": "0.73.6",
+    "react-native-ble-plx": "^3.1.2"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
